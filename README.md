@@ -1,6 +1,6 @@
 # Customer Retention & Revenue Risk — Interactive Dashboard 
 
-An interactive data visualization dashboard built (Interactive Dashboard Development)** of the **VirtualWorks Data Analytics Internship**. The dashboard analyzes customer churn behavior, monthly recurring revenue (MRR) exposure, and subscriber lifecycle trends across **7,043 telecom customer records** (`Telco-Customer-Churn.csv`).
+An interactive data visualization dashboard built. The dashboard analyzes customer churn behavior, monthly recurring revenue (MRR) exposure, and subscriber lifecycle trends across **7,043 telecom customer records** (`Telco-Customer-Churn.csv`).
 
 ---
 
